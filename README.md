@@ -3,3 +3,5 @@ Dashboard created as an extra assignment for a Power BI course taken on Udemy (M
 
 The goal of this exercise is to practice all stages of data management in Power BI: 
 importing, cleaning, shaping, modeling, creating measures, and visualization.
+
+The dashboard displays product sales by category and geographic area, providing insights into the achievement of established sales targets.
